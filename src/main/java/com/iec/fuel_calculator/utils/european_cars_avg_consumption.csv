@@ -1,0 +1,101 @@
+brand,model,avg_consumption
+Audi,A1,6.7
+Audi,A3,8.1
+Audi,A4,8.9
+Audi,A5,7.3
+Audi,A6,12.7
+Audi,Q2,4.4
+Audi,Q3,10.1
+Audi,Q5,3.8
+Audi,Q7,11.1
+Audi,Q8,5.9
+BMW,1 Series,5.9
+BMW,2 Series,9.9
+BMW,3 Series,12.0
+BMW,4 Series,11.3
+BMW,5 Series,11.0
+BMW,X1,13.8
+BMW,X2,7.3
+BMW,X3,9.9
+BMW,X4,11.1
+BMW,X5,4.0
+Mercedes,A-Class,4.5
+Mercedes,B-Class,4.0
+Mercedes,C-Class,5.5
+Mercedes,E-Class,9.8
+Mercedes,S-Class,13.8
+Mercedes,GLA,13.9
+Mercedes,GLB,13.0
+Mercedes,GLC,6.1
+Mercedes,GLE,7.7
+Mercedes,GLS,4.4
+Volkswagen,Golf,6.7
+Volkswagen,Polo,5.8
+Volkswagen,Passat,4.3
+Volkswagen,Tiguan,12.3
+Volkswagen,Touareg,7.5
+Volkswagen,Arteon,7.7
+Volkswagen,T-Roc,13.4
+Volkswagen,T-Cross,10.6
+Volkswagen,ID.3,8.3
+Volkswagen,ID.4,6.8
+Renault,Clio,3.6
+Renault,Megane,13.9
+Renault,Captur,13.3
+Renault,Kadjar,13.4
+Renault,Talisman,10.9
+Renault,Koleos,12.1
+Renault,Zoe,9.2
+Renault,Scenic,3.6
+Renault,Espace,9.1
+Renault,Arkana,5.7
+Peugeot,208,6.1
+Peugeot,308,8.6
+Peugeot,3008,5.5
+Peugeot,5008,10.3
+Peugeot,2008,13.4
+Peugeot,508,5.4
+Peugeot,Rifter,10.9
+Peugeot,Partner,4.3
+Peugeot,Traveller,5.3
+Peugeot,Expert,12.4
+Fiat,500,8.4
+Fiat,Panda,4.7
+Fiat,Tipo,10.3
+Fiat,124 Spider,11.5
+Fiat,500X,14.7
+Fiat,500L,10.9
+Fiat,Doblo,9.2
+Fiat,Ducato,4.6
+Fiat,Qubo,7.1
+Fiat,Talento,6.0
+Ford,Fiesta,12.9
+Ford,Focus,6.7
+Ford,Mondeo,11.6
+Ford,Kuga,13.2
+Ford,Puma,10.4
+Ford,EcoSport,9.4
+Ford,S-Max,4.8
+Ford,Galaxy,10.2
+Ford,Edge,9.1
+Ford,Ranger,6.8
+Opel,Corsa,11.1
+Opel,Astra,12.9
+Opel,Insignia,9.3
+Opel,Crossland X,10.9
+Opel,Grandland X,4.0
+Opel,Mokka X,9.2
+Opel,Combo,5.9
+Opel,Zafira,6.1
+Opel,Karl,4.8
+Opel,Adam,8.1
+Skoda,Fabia,7.9
+Skoda,Octavia,11.3
+Skoda,Superb,7.1
+Skoda,Kodiaq,9.7
+Skoda,Karoq,3.6
+Skoda,Kamiq,7.5
+Skoda,Scala,11.0
+Skoda,Citigo,11.0
+Skoda,Rapid,6.2
+Skoda,Enyaq,6.4

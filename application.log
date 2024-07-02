@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-06-28T16:31:46.932101700Z</date>
+  <millis>1719592306932</millis>
+  <nanos>101700</nanos>
+  <sequence>3</sequence>
+  <logger>com.iec.fuel_calculator.utils.ToolsfileLogger</logger>
+  <level>WARNING</level>
+  <class>com.iec.fuel_calculator.utils.Tools</class>
+  <method>print</method>
+  <thread>1</thread>
+  <message>For input string: "18asd"
+[java.base/jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:2054), java.base/jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110), java.base/java.lang.Double.parseDouble(Double.java:792), com.iec.fuel_calculator.controller.Collector.getValidatedDoubleInput(Collector.java:38), com.iec.fuel_calculator.controller.Collector.collectInfo(Collector.java:17), com.iec.fuel_calculator.main.Main.main(Main.java:12)]</message>
+</record>
+<record>
+  <date>2024-06-28T16:31:51.247140600Z</date>
+  <millis>1719592311247</millis>
+  <nanos>140600</nanos>
+  <sequence>7</sequence>
+  <logger>com.iec.fuel_calculator.utils.ToolsfileLogger</logger>
+  <level>WARNING</level>
+  <class>com.iec.fuel_calculator.utils.Tools</class>
+  <method>print</method>
+  <thread>1</thread>
+  <message>For input string: "555fff"
+[java.base/jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:2054), java.base/jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110), java.base/java.lang.Double.parseDouble(Double.java:792), com.iec.fuel_calculator.controller.Collector.getValidatedDoubleInput(Collector.java:38), com.iec.fuel_calculator.controller.Collector.collectInfo(Collector.java:17), com.iec.fuel_calculator.main.Main.main(Main.java:12)]</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-06-28T16:36:36.044254500Z</date>
+  <millis>1719592596044</millis>
+  <nanos>254500</nanos>
+  <sequence>5</sequence>
+  <logger>com.iec.fuel_calculator.utils.ToolsfileLogger</logger>
+  <level>WARNING</level>
+  <class>com.iec.fuel_calculator.utils.Tools</class>
+  <method>print</method>
+  <thread>1</thread>
+  <message>For input string: "5aa"
+[java.base/jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:2054), java.base/jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110), java.base/java.lang.Double.parseDouble(Double.java:792), com.iec.fuel_calculator.controller.Collector.getValidatedDoubleInput(Collector.java:38), com.iec.fuel_calculator.controller.Collector.collectInfo(Collector.java:19), com.iec.fuel_calculator.main.Main.main(Main.java:12)]</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-06-28T16:37:18.777779600Z</date>
+  <millis>1719592638777</millis>
+  <nanos>779600</nanos>
+  <sequence>5</sequence>
+  <logger>com.iec.fuel_calculator.utils.ToolsfileLogger</logger>
+  <level>WARNING</level>
+  <class>com.iec.fuel_calculator.utils.Tools</class>
+  <method>print</method>
+  <thread>1</thread>
+  <message>For input string: "5a"
+[java.base/jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:2054), java.base/jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110), java.base/java.lang.Double.parseDouble(Double.java:792), com.iec.fuel_calculator.controller.Collector.getValidatedDoubleInput(Collector.java:38), com.iec.fuel_calculator.controller.Collector.collectInfo(Collector.java:19), com.iec.fuel_calculator.main.Main.main(Main.java:12)]</message>
+</record>
+</log>
+For input string: "180a"
+[java.base/jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:2054), java.base/jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110), java.base/java.lang.Double.parseDouble(Double.java:792), com.iec.fuel_calculator.controller.Collector.getValidatedDoubleInput(Collector.java:38), com.iec.fuel_calculator.controller.Collector.collectInfo(Collector.java:17), com.iec.fuel_calculator.main.Main.main(Main.java:12)]WARNINGprint
+For input string: "555lll"
+[java.base/jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:2054), java.base/jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110), java.base/java.lang.Double.parseDouble(Double.java:792), com.iec.fuel_calculator.controller.Collector.getValidatedDoubleInput(Collector.java:38), com.iec.fuel_calculator.controller.Collector.collectInfo(Collector.java:17), com.iec.fuel_calculator.main.Main.main(Main.java:12)]WARNINGprint
